@@ -14,7 +14,6 @@ After acceptance, this repository will include:
 - Configuration files for training and evaluation
 - Scripts for feature extraction, fusion, and ASR evaluation
 - Pretrained checkpoints, if permitted
-- Documentation for reproducing the main results
 
 ## Citation
 
